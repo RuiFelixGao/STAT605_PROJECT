@@ -1,5 +1,4 @@
-# STAT605_PROJECT
-
+# STAT605 PROJECT
 Clone and do
 
 ```python
